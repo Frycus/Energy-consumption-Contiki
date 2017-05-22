@@ -1,4 +1,3 @@
 # Energy-consumption-Contiki
-This project in Contiki uses the Energest module to estimate energy consumption of a node. 
-The energy consumption is calculated by multiply the voltage and the current altogether with a duration which the 
-sensor node spends for operating. Voltage and current are taken from Tmote Sky sensor datasheet.
+This simple project in Contiki uses the Energest module to estimate the energy consumption of a node. 
+The energy consumption is calculated by multiplying the voltage and the current together with a duration which the sensor node spends on operating. Voltage and current are taken from Tmote Sky sensor datasheet. It uses example-broadacast.c as a template.
